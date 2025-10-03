@@ -1,3 +1,5 @@
+# Knowledge Log
+
 1. Learned what is version control and git and how to use it.
 2. Learned how to setup your development environment.
 3. Learned about package managers and how to use npm for our setup.
